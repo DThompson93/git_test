@@ -1,0 +1,16 @@
+body {
+    /* text-align: center; */
+    font-family:'Courier New', Courier, monospace;
+}
+
+li {
+    margin: 0 auto;
+}
+
+.titles{
+    text-align: center;
+}
+
+.links {
+    color: black;
+}
